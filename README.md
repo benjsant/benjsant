@@ -51,3 +51,5 @@ pas des démos.
 
 Le plus simple : **[mon portfolio](https://benjamin-santrisse.vercel.app)**, avec mes
 projets, articles, CV téléchargeable, et un assistant IA que j'ai développé.
+
+<!-- profil -->
